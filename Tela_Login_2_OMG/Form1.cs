@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Tela_Login_2_OMG
 {
-    public partial class Form1 : Form
+    public partial class Tela_Inicial : Form
     {
-        public Form1()
+        public Tela_Inicial()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
