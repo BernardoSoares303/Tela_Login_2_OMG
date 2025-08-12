@@ -26,7 +26,9 @@ namespace Tela_Login_2_OMG
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Tela_Login telaLogin = new Tela_Login();
+            this.Hide();
+            telaLogin.Show();
         }
     }
 }
