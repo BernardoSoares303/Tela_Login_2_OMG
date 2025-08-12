@@ -19,7 +19,9 @@ namespace Tela_Login_2_OMG
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Tela_Cadastro telacadastro = new Tela_Cadastro(this);
+            this.Hide();
+            telacadastro.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)

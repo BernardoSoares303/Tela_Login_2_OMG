@@ -39,7 +39,7 @@
             this.Fazer_Cadastro.Font = new System.Drawing.Font("MS Reference Sans Serif", 20F, System.Drawing.FontStyle.Bold);
             this.Fazer_Cadastro.Location = new System.Drawing.Point(359, 119);
             this.Fazer_Cadastro.Name = "Fazer_Cadastro";
-            this.Fazer_Cadastro.Size = new System.Drawing.Size(351, 109);
+            this.Fazer_Cadastro.Size = new System.Drawing.Size(359, 132);
             this.Fazer_Cadastro.TabIndex = 0;
             this.Fazer_Cadastro.Text = "Fazer Cadastro";
             this.Fazer_Cadastro.UseVisualStyleBackColor = false;
@@ -51,7 +51,7 @@
             this.Fazer_Login.Font = new System.Drawing.Font("MS Reference Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Fazer_Login.Location = new System.Drawing.Point(359, 282);
             this.Fazer_Login.Name = "Fazer_Login";
-            this.Fazer_Login.Size = new System.Drawing.Size(351, 109);
+            this.Fazer_Login.Size = new System.Drawing.Size(359, 130);
             this.Fazer_Login.TabIndex = 1;
             this.Fazer_Login.Text = "Fazer Login";
             this.Fazer_Login.UseVisualStyleBackColor = false;
